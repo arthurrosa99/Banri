@@ -1,0 +1,10 @@
+C:\Users\E38316\Desktop\EX_V2\EX_V2\obj\Debug\EX_V2.csprojAssemblyReference.cache
+C:\Users\E38316\Desktop\EX_V2\EX_V2\obj\Debug\EX_V2.Form1.resources
+C:\Users\E38316\Desktop\EX_V2\EX_V2\obj\Debug\EX_V2.Properties.Resources.resources
+C:\Users\E38316\Desktop\EX_V2\EX_V2\obj\Debug\EX_V2.csproj.GenerateResource.cache
+C:\Users\E38316\Desktop\EX_V2\EX_V2\obj\Debug\EX_V2.csproj.CoreCompileInputs.cache
+C:\Users\E38316\Desktop\EX_V2\EX_V2\bin\Debug\EX_V2.exe.config
+C:\Users\E38316\Desktop\EX_V2\EX_V2\bin\Debug\EX_V2.exe
+C:\Users\E38316\Desktop\EX_V2\EX_V2\bin\Debug\EX_V2.pdb
+C:\Users\E38316\Desktop\EX_V2\EX_V2\obj\Debug\EX_V2.exe
+C:\Users\E38316\Desktop\EX_V2\EX_V2\obj\Debug\EX_V2.pdb
